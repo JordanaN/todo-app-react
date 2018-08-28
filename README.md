@@ -2,5 +2,5 @@
 ## API criada com:
 * Express
 * node-restful
-* Pm2
+* PM2
 * Mongo
